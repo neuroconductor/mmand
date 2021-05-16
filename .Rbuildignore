@@ -2,3 +2,8 @@
 ^\.covrignore$
 ^README\.Rmd$
 ^appveyor\.yml$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
